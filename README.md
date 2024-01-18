@@ -1,6 +1,3 @@
-super over league
-
-html 
 
 <!DOCTYPE html>
 <html lang="en">
@@ -21,8 +18,6 @@ html
 </html>
 
 
-js
-
 const element = (
 <div className="container">
     <h1>Super Over League</h1>
@@ -34,8 +29,6 @@ const element = (
 );
 
 ReactDOM.render(element, document.getElementById('root'));
-
-css
 
 *{
     box-sizing: border-box;
